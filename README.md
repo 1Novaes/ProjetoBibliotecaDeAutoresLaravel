@@ -1,3 +1,22 @@
+# Crud Biblioteca de Autores
+
+CRUD de uma biblioteca de autores , feito durante o curso Técnico em Informática para WEB
+
+# Objetivo
+
+Criar , ler , Atualizar e Deletar , Autores e livros.
+
+# Tecnologias Usadas
+
+* HTML
+* CSS
+* PHP
+* LARAVEL
+
+# Licença
+
+MIT licence ©
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
